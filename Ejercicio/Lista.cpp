@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Lista.hpp"
+using namespace std;
 
 Lista::Lista()
 {

@@ -1,3 +1,5 @@
+#include "Nodo.hpp"
+#include "Lista.hpp"
 using namespace std;
 
 int main()
@@ -11,3 +13,4 @@ int main()
      l.Recorre();
     return 0;
 }
+
